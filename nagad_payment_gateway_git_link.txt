@@ -1,0 +1,3 @@
+https://packagist.org/packages/karim007/laravel-nagad
+
+https://packagist.org/packages/anovob/laravel-nagad-api
